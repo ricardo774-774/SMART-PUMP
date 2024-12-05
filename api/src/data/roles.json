@@ -1,0 +1,16 @@
+{
+    "roles": [
+        {   
+            "_id": "6750faf7bd028b050914ecc5",
+            "role_name": "ADMIN"
+        },
+        {   
+            "_id": "6750fb0deb59027051418f8c",
+            "role_name": "PREMIUM"
+        },
+        {   
+            "_id": "6750fb235b72cb10dfbd7698",
+            "role_name": "REGULAR"
+        }
+    ]
+}

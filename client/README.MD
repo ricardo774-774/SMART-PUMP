@@ -26,7 +26,7 @@
 1. Open a terminal
 2. Run in terminal command:
 ```
-tailwind.css - npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ```
 3. Open file welcome.html with live server
 ### Main stack 
